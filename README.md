@@ -14,6 +14,12 @@ Deployed application:
 
 ## React router
 
-* The front end application is powered by react routine and each page displays a json object rendered in react
+* The front end application is powered by react routine and each page displays a json object rendered as a component.
 
-![contact] (/public/assets/screenshot-contact.png)
+![main](public/assets/screenshot-main.png)
+![contact](public/assets/screenshot-project.png)
+![contact](public/assets/screenshot-contact.png)
+
+
+
+
