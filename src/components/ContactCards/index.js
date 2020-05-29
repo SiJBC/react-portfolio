@@ -54,7 +54,7 @@ function ContactCard() {
                                 </a>
 
                                 
-                                <a href="https://drive.google.com/file/d/1OCiuWBvLX9ZjTQGcNY8Wshc8BHGwIPi-/view?usp=sharing">
+                                <a href="https://docs.google.com/document/d/1Pp8ysEYjYrAPvpG2ibvxq8WoMdu5fQDUvbP_E6SfTEY/edit?usp=sharing">
                                     <i className="far fa-file fa-4x"></i>
                                     <h3>Resume </h3>
                                 </a>

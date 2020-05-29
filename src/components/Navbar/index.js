@@ -22,7 +22,7 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <Link
-              to="/discover"
+              to="/react-portfolio"
               className= {window.location.pathname === "/about" ? "nav-link active" : "nav-link" }
             >
               About
